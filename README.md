@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm passionate about **technology, coding, and content creation**. My journey started with **Physics**, I found love for **web development, AI, and open-source contributions** along the way.  
 
 ## **What I Do**  
-- **Web Development** – Full-stack projects with Django, React, and more.  
+- **Web Development** – Full-stack projects with diff Stacks.  
 - **AI & Machine Learning** – Exploring ML models and AI-driven applications.  
 - **Content Creation** – Teaching coding and tech concepts on **YouTube**.  
 - **Open Source** – Sharing my projects and contributing to the dev community.  
