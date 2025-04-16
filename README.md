@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm passionate about **technology, coding, and content cre
 - **Open Source** – Sharing my projects and contributing to the dev community.  
 
 ## **Find Me Online**  
-  **YouTube:** [i'm avvvvvv](https://www.youtube.com/channel/UCH_3dW9zdd-8Aio3ePKj3KA)  
-  **LinkedIn:** [i'm avvvvvv](https://www.linkedin.com/in/abhinandan-mandal-9252a0211/)  
+  **YouTube:** [Abhinandan M.](https://www.youtube.com/@recheckwith_abhi)  
+  **LinkedIn:** [Abhinandan M.](https://www.linkedin.com/in/abhinandan-m-9252a0211/)  
 
 ### 💡 "Code, Learn, Share, Repeat!" 🚀  
 Feel free to check out my repositories and collaborate! 🔥  
