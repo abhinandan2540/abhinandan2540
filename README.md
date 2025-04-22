@@ -2,7 +2,7 @@
 
  **Learner | Physics Graduate | Web & AI Developer**  
 
-Welcome to my GitHub! I'm passionate about **technology, coding, and content creation**. My journey started with **Physics**, I found love for **web development, AI, and open-source contributions** along the way.  
+Welcome to my GitHub! I'm passionate about **technology, coding, and  many more**. My journey started with **Physics**, I gain insight in **web development, AI, and open-source contributions** along the way.  
 
 ## **What I Do**  
 - **Web Development** – Full-stack projects with diff Stacks.  
