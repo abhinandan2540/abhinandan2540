@@ -1,6 +1,6 @@
 # Hey there, I'm Abhinandan M. 
 
- **Learner | Physics Graduate | Web & AI Developer**  
+ **Learner | Web & AI Developer**  
 
 Welcome to my GitHub! I'm passionate about **technology, coding, and  many more**. My journey started with **Physics**, I gain insight in **web development, AI, and open-source contributions** along the way.  
 
