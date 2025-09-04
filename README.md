@@ -1,16 +1,13 @@
-# Hey there, I'm Abhinandan M. 
+# Hi, I'm Abhinandan M. 
 
- **Learner | Web & AI Developer**  
+Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, Data Science**. My journey started with **Physics**, I gain insight in **Programming, Technology** along the way.  
 
-Welcome to my GitHub! I'm passionate about **technology, coding, and  many more**. My journey started with **Physics**, I gain insight in **web development, AI, and open-source contributions** along the way.  
-
-## **What I Do**  
-- **Web Development** – Full-stack projects with diff Stacks.  
-- **AI & Machine Learning** – Exploring ML models and AI-driven applications.    
+## **What I Do**    
+- **AI & Machine Learning** – Exploring ML models and AI-driven applications.
+- **Web Development** – Full-stack projects with diff Stacks.
 - **Open Source** – Sharing my projects and contributing to the dev community.  
 
-### 💡 "Code, Learn, Share, Repeat!" 🚀  
-Feel free to check out my repositories and collaborate! 🔥  
+Feel free to check out my repositories and collaborate!
 
 
 <!---
