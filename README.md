@@ -1,4 +1,4 @@
-# Hi, I'm Abhinandan M. 
+# Hi, I'm Abhinandan
 
 Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, Data Science**. My journey started with **Physics**, I gain insight in **Programming, Technology** along the way.  
 
