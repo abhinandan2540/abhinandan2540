@@ -1,10 +1,10 @@
 # Hi, I'm Abhinandan
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, Data Science**. My journey started with **Physics**, I gain insight in **Programming, Technology** along the way.  
+Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Data Science**. My journey started with **Physics**, I gain insight in **Programming, Technology** along the way.  
 
 ## **What I Do**    
 - **AI & Machine Learning** – Exploring ML models and AI-driven applications.
-- **Web Development** – Full-stack projects with diff Stacks.
+- **Edge Development** – Developing energy efficient models for edge devices.
 - **Open Source** – Sharing my projects and contributing to the dev community.  
 
 Feel free to check out my repositories and collaborate!
