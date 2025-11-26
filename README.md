@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Le
 
 ## **What I Do**    
 - **AI & Machine Learning** – Exploring ML models and AI-driven applications.
-- **Edge Development** – Developing energy efficient models for edge devices.
+- **Edge AI** – Developing energy efficient models for edge devices.
 - **Open Source** – Sharing my projects and contributing to the dev community.  
 
 Feel free to check out my repositories and collaborate!
