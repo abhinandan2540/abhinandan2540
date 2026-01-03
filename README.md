@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, Speciall
 - **Open Source** – Sharing my projects and contributing to the dev community.
 
 
-## **What are my strengths**
+## **Technical Strengths**
 - **Programming** - Python, Java
 - **Deep Learning** - PyTorch, TensorFlow
 - **Machine Learning** - Scikit-Learn, NumPy, SciPy, OpenCV
