@@ -1,6 +1,6 @@
 # Hi, I'm Abhinandan
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, Specially **design and development of efficient AI tools for societal developments including assistive, explainable, healthcare and sustainable**. I have a deep interest in **behind the scene of Artificial Neural Networks** workings, and have curiosity to reverse engineer it.
+Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, Specially **design and development of efficient AI tools for societal developments including assistive, explainable, healthcare and sustainable developments**. I have a deep interest in **behind the scene of Artificial Neural Networks** workings, and have curiosity to reverse engineer it.
 
 
 ## **What I Do**    
