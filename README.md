@@ -1,7 +1,6 @@
 # Hi, I'm Abhinandan
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, Specially **design and development of efficient AI tools for assistive, explainable, healthcare and sustainable applications**. I have a deep interest in **behind the scene of Deep Neural Nets** workings, and have curiosity to reverse engineer it.
-
+Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI tools for assistive, healthcare, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
 
 ## **What I Do**    
 - **Edge-Responsible AI** – Developing energy efficient models for edge devices.
