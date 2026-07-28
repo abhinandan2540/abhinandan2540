@@ -40,6 +40,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)** | Autonomous Qbot navigation in GNSS-denied environments via Deep RL. Done at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
 | **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)** | AI agentic tool generating research-to-thesis document pipelines across 9 formats. Done with [KorroAI](https://github.com/KorroAi) |
 | **[Python-Visual-Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)** | Image similarity computation for retrieval & unsupervised labelling | 
+| **[I-CaN-Sim-Code](https://github.com/AbhinandanMandal/I-CaN-Sim-Code)** | Application AI in communication networking. Working with [I-CaN group](https://www.linkedin.com/company/intelligent-communication-and-networking-group/posts/?feedView=all) | 
 
 ### **Recent Side Project**
 | Repository | Description |
