@@ -11,7 +11,7 @@
 </p>
 
 
-Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **Representation Learning**, **Multimodal Reasoning**, **reinforcement learning** and **responsible, scalable AI**
+Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **Representation Learning**, **Self-Supervised Learning**, **Multimodal Reasoning**, **Reinforcement Learning**, **Vision-Language Models** and **Responsible & Scalable AI**
 
 
 
