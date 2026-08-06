@@ -46,7 +46,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description |
 |---|---|
 | **[RepresentationLearning](https://github.com/AbhinandanMandal/RepresentationLearning)** | Hands on implementation of state-of-the-art (SOTA) representation learning papers from scratch |
-| **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)** | Core data structures & algorithms question practice from ground zero |
+| **[DSA-Python](https://github.com/AbhinandanMandal/dsa-python)** | Core data structures & algorithms question practice from ground zero |
 
 
 <details>
