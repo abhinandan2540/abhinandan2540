@@ -55,6 +55,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description |
 |---|---|
 | **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Deep learning models & modules built from scratch in PyTorch |
+| **[CV-Fundamentals](https://github.com/AbhinandanMandal/CV-Fundamentals)** | Computer Vision fundamentals |
 | **[ANN](https://github.com/AbhinandanMandal/ANN)** | Artificial Neural Networks implemented from scratch with NumPy & linear algebra |
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[JFA](https://github.com/AbhinandanMandal/JFA)** | Java fundamentals to advanced concepts |
