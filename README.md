@@ -24,7 +24,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 ### **Recent Research Projects**
 | Repository | Description | 
 |---|---|
-| **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)** | Autonomous UAV navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
+| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
 | **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)** | Self-supervised learning for image representation & similarity-based retrieval. Showcased in Gwalior AI Summit at [Indian Institute of Information Technology and Management (IIITM) Gwalior](https://www.iiitm.ac.in/index.php/en/) |
 | **[Assistive OpenCV](https://github.com/AbhinandanMandal/assistiveopencv)** | Real-world navigation assistance for visually impaired individuals. Project of ES516 Programming for Data Science, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
 | **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)** | An unsupervised face recognition system with custom dataset and **Haarcascade Frontal Face Classifier**. Final project ES514 Machine Learning Techniques, Winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
