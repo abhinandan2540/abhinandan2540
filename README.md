@@ -25,10 +25,10 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description | 
 |---|---|
 | **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
-| **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)** | Self-supervised learning for image representation & similarity-based retrieval. Showcased in Gwalior AI Summit at [Indian Institute of Information Technology and Management (IIITM) Gwalior](https://www.iiitm.ac.in/index.php/en/) |
-| **[Assistive OpenCV](https://github.com/AbhinandanMandal/assistiveopencv)** | Real-world navigation assistance for visually impaired individuals. Project of ES516 Programming for Data Science, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
-| **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)** | An unsupervised face recognition system with custom dataset and **Haarcascade Frontal Face Classifier**. Final project ES514 Machine Learning Techniques, Winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
-| **[PINN-WyNDA](https://github.com/AbhinandanMandal/ES526_MS)** | A Physics Informed Neural Network Method to Discover Mathematical Models of Dynamical Systems from Data. Final project ES526 Modelling & Simulation, Summer 2026 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[Extension of STELLAR (ICML 2026)](https://github.com/AbhinandanMandal/STELLAR)** | Utilizing baseline [STELLAR](https://arxiv.org/abs/2602.01905) framework to investigate intrinsic dimensionality in real biomedical visual task and empirical analysis of rank compression in visual representation|
+| **[Extension of AdaptVis (ICML 2025)](https://github.com/AbhinandanMandal/AdaptVis)** | Investigating additional training free calibration techniques to further improve spatial-reasoning performance in out of distribution analysis |
+| **[Extension of PiRO (CVPR 2024)](https://github.com/AbhinandanMandal/PiRO)** | Evaluating embedding quality category and object-level representation. Currently collecting new data to extend framework generalization |
+| **[Extension of Negbench](https://github.com/AbhinandanMandal/negbench)** | Currently integrating the benchmark into a robotic visual perception pipeline to test negation robustness in real-world scenes |
 
 
  
